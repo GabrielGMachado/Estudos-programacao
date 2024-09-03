@@ -1,0 +1,14 @@
+D:\Studies\C#\curso c# udemy\ExercicioClasses\ExercicioClasses\bin\Debug\net8.0\ExercicioClasses.exe
+D:\Studies\C#\curso c# udemy\ExercicioClasses\ExercicioClasses\bin\Debug\net8.0\ExercicioClasses.deps.json
+D:\Studies\C#\curso c# udemy\ExercicioClasses\ExercicioClasses\bin\Debug\net8.0\ExercicioClasses.runtimeconfig.json
+D:\Studies\C#\curso c# udemy\ExercicioClasses\ExercicioClasses\bin\Debug\net8.0\ExercicioClasses.dll
+D:\Studies\C#\curso c# udemy\ExercicioClasses\ExercicioClasses\bin\Debug\net8.0\ExercicioClasses.pdb
+D:\Studies\C#\curso c# udemy\ExercicioClasses\ExercicioClasses\obj\Debug\net8.0\ExercicioClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studies\C#\curso c# udemy\ExercicioClasses\ExercicioClasses\obj\Debug\net8.0\ExercicioClasses.AssemblyInfoInputs.cache
+D:\Studies\C#\curso c# udemy\ExercicioClasses\ExercicioClasses\obj\Debug\net8.0\ExercicioClasses.AssemblyInfo.cs
+D:\Studies\C#\curso c# udemy\ExercicioClasses\ExercicioClasses\obj\Debug\net8.0\ExercicioClasses.csproj.CoreCompileInputs.cache
+D:\Studies\C#\curso c# udemy\ExercicioClasses\ExercicioClasses\obj\Debug\net8.0\ExercicioClasses.dll
+D:\Studies\C#\curso c# udemy\ExercicioClasses\ExercicioClasses\obj\Debug\net8.0\refint\ExercicioClasses.dll
+D:\Studies\C#\curso c# udemy\ExercicioClasses\ExercicioClasses\obj\Debug\net8.0\ExercicioClasses.pdb
+D:\Studies\C#\curso c# udemy\ExercicioClasses\ExercicioClasses\obj\Debug\net8.0\ExercicioClasses.genruntimeconfig.cache
+D:\Studies\C#\curso c# udemy\ExercicioClasses\ExercicioClasses\obj\Debug\net8.0\ref\ExercicioClasses.dll
