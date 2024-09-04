@@ -1,0 +1,14 @@
+D:\Studies\C#\curso c# udemy\EstoqueDeLoja\EstoqueDeLoja\bin\Debug\net8.0\EstoqueDeLoja.exe
+D:\Studies\C#\curso c# udemy\EstoqueDeLoja\EstoqueDeLoja\bin\Debug\net8.0\EstoqueDeLoja.deps.json
+D:\Studies\C#\curso c# udemy\EstoqueDeLoja\EstoqueDeLoja\bin\Debug\net8.0\EstoqueDeLoja.runtimeconfig.json
+D:\Studies\C#\curso c# udemy\EstoqueDeLoja\EstoqueDeLoja\bin\Debug\net8.0\EstoqueDeLoja.dll
+D:\Studies\C#\curso c# udemy\EstoqueDeLoja\EstoqueDeLoja\bin\Debug\net8.0\EstoqueDeLoja.pdb
+D:\Studies\C#\curso c# udemy\EstoqueDeLoja\EstoqueDeLoja\obj\Debug\net8.0\EstoqueDeLoja.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studies\C#\curso c# udemy\EstoqueDeLoja\EstoqueDeLoja\obj\Debug\net8.0\EstoqueDeLoja.AssemblyInfoInputs.cache
+D:\Studies\C#\curso c# udemy\EstoqueDeLoja\EstoqueDeLoja\obj\Debug\net8.0\EstoqueDeLoja.AssemblyInfo.cs
+D:\Studies\C#\curso c# udemy\EstoqueDeLoja\EstoqueDeLoja\obj\Debug\net8.0\EstoqueDeLoja.csproj.CoreCompileInputs.cache
+D:\Studies\C#\curso c# udemy\EstoqueDeLoja\EstoqueDeLoja\obj\Debug\net8.0\EstoqueDeLoja.dll
+D:\Studies\C#\curso c# udemy\EstoqueDeLoja\EstoqueDeLoja\obj\Debug\net8.0\refint\EstoqueDeLoja.dll
+D:\Studies\C#\curso c# udemy\EstoqueDeLoja\EstoqueDeLoja\obj\Debug\net8.0\EstoqueDeLoja.pdb
+D:\Studies\C#\curso c# udemy\EstoqueDeLoja\EstoqueDeLoja\obj\Debug\net8.0\EstoqueDeLoja.genruntimeconfig.cache
+D:\Studies\C#\curso c# udemy\EstoqueDeLoja\EstoqueDeLoja\obj\Debug\net8.0\ref\EstoqueDeLoja.dll

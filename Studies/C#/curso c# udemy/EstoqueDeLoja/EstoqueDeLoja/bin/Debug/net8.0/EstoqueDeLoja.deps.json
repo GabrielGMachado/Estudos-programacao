@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EstoqueDeLoja/1.0.0": {
+        "runtime": {
+          "EstoqueDeLoja.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EstoqueDeLoja/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
