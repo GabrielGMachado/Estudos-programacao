@@ -1,0 +1,14 @@
+D:\Studies\C#\basic exercices\JogodaForca\JogodaForca\bin\Debug\net8.0\JogodaForca.exe
+D:\Studies\C#\basic exercices\JogodaForca\JogodaForca\bin\Debug\net8.0\JogodaForca.deps.json
+D:\Studies\C#\basic exercices\JogodaForca\JogodaForca\bin\Debug\net8.0\JogodaForca.runtimeconfig.json
+D:\Studies\C#\basic exercices\JogodaForca\JogodaForca\bin\Debug\net8.0\JogodaForca.dll
+D:\Studies\C#\basic exercices\JogodaForca\JogodaForca\bin\Debug\net8.0\JogodaForca.pdb
+D:\Studies\C#\basic exercices\JogodaForca\JogodaForca\obj\Debug\net8.0\JogodaForca.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studies\C#\basic exercices\JogodaForca\JogodaForca\obj\Debug\net8.0\JogodaForca.AssemblyInfoInputs.cache
+D:\Studies\C#\basic exercices\JogodaForca\JogodaForca\obj\Debug\net8.0\JogodaForca.AssemblyInfo.cs
+D:\Studies\C#\basic exercices\JogodaForca\JogodaForca\obj\Debug\net8.0\JogodaForca.csproj.CoreCompileInputs.cache
+D:\Studies\C#\basic exercices\JogodaForca\JogodaForca\obj\Debug\net8.0\JogodaForca.dll
+D:\Studies\C#\basic exercices\JogodaForca\JogodaForca\obj\Debug\net8.0\refint\JogodaForca.dll
+D:\Studies\C#\basic exercices\JogodaForca\JogodaForca\obj\Debug\net8.0\JogodaForca.pdb
+D:\Studies\C#\basic exercices\JogodaForca\JogodaForca\obj\Debug\net8.0\JogodaForca.genruntimeconfig.cache
+D:\Studies\C#\basic exercices\JogodaForca\JogodaForca\obj\Debug\net8.0\ref\JogodaForca.dll
