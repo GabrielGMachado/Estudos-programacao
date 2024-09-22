@@ -1,0 +1,14 @@
+C:\Users\bielg\source\repos\AprendimentosFoda\AprendimentosFoda\bin\Debug\net8.0\AprendimentosFoda.exe
+C:\Users\bielg\source\repos\AprendimentosFoda\AprendimentosFoda\bin\Debug\net8.0\AprendimentosFoda.deps.json
+C:\Users\bielg\source\repos\AprendimentosFoda\AprendimentosFoda\bin\Debug\net8.0\AprendimentosFoda.runtimeconfig.json
+C:\Users\bielg\source\repos\AprendimentosFoda\AprendimentosFoda\bin\Debug\net8.0\AprendimentosFoda.dll
+C:\Users\bielg\source\repos\AprendimentosFoda\AprendimentosFoda\bin\Debug\net8.0\AprendimentosFoda.pdb
+C:\Users\bielg\source\repos\AprendimentosFoda\AprendimentosFoda\obj\Debug\net8.0\AprendimentosFoda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bielg\source\repos\AprendimentosFoda\AprendimentosFoda\obj\Debug\net8.0\AprendimentosFoda.AssemblyInfoInputs.cache
+C:\Users\bielg\source\repos\AprendimentosFoda\AprendimentosFoda\obj\Debug\net8.0\AprendimentosFoda.AssemblyInfo.cs
+C:\Users\bielg\source\repos\AprendimentosFoda\AprendimentosFoda\obj\Debug\net8.0\AprendimentosFoda.csproj.CoreCompileInputs.cache
+C:\Users\bielg\source\repos\AprendimentosFoda\AprendimentosFoda\obj\Debug\net8.0\AprendimentosFoda.dll
+C:\Users\bielg\source\repos\AprendimentosFoda\AprendimentosFoda\obj\Debug\net8.0\refint\AprendimentosFoda.dll
+C:\Users\bielg\source\repos\AprendimentosFoda\AprendimentosFoda\obj\Debug\net8.0\AprendimentosFoda.pdb
+C:\Users\bielg\source\repos\AprendimentosFoda\AprendimentosFoda\obj\Debug\net8.0\AprendimentosFoda.genruntimeconfig.cache
+C:\Users\bielg\source\repos\AprendimentosFoda\AprendimentosFoda\obj\Debug\net8.0\ref\AprendimentosFoda.dll
