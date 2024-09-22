@@ -1,0 +1,14 @@
+C:\Users\bielg\source\repos\ControledeInventario\ControledeInventario\bin\Debug\net8.0\ControledeInventario.exe
+C:\Users\bielg\source\repos\ControledeInventario\ControledeInventario\bin\Debug\net8.0\ControledeInventario.deps.json
+C:\Users\bielg\source\repos\ControledeInventario\ControledeInventario\bin\Debug\net8.0\ControledeInventario.runtimeconfig.json
+C:\Users\bielg\source\repos\ControledeInventario\ControledeInventario\bin\Debug\net8.0\ControledeInventario.dll
+C:\Users\bielg\source\repos\ControledeInventario\ControledeInventario\bin\Debug\net8.0\ControledeInventario.pdb
+C:\Users\bielg\source\repos\ControledeInventario\ControledeInventario\obj\Debug\net8.0\ControledeInventario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bielg\source\repos\ControledeInventario\ControledeInventario\obj\Debug\net8.0\ControledeInventario.AssemblyInfoInputs.cache
+C:\Users\bielg\source\repos\ControledeInventario\ControledeInventario\obj\Debug\net8.0\ControledeInventario.AssemblyInfo.cs
+C:\Users\bielg\source\repos\ControledeInventario\ControledeInventario\obj\Debug\net8.0\ControledeInventario.csproj.CoreCompileInputs.cache
+C:\Users\bielg\source\repos\ControledeInventario\ControledeInventario\obj\Debug\net8.0\ControledeInventario.dll
+C:\Users\bielg\source\repos\ControledeInventario\ControledeInventario\obj\Debug\net8.0\refint\ControledeInventario.dll
+C:\Users\bielg\source\repos\ControledeInventario\ControledeInventario\obj\Debug\net8.0\ControledeInventario.pdb
+C:\Users\bielg\source\repos\ControledeInventario\ControledeInventario\obj\Debug\net8.0\ControledeInventario.genruntimeconfig.cache
+C:\Users\bielg\source\repos\ControledeInventario\ControledeInventario\obj\Debug\net8.0\ref\ControledeInventario.dll
