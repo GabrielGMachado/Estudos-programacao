@@ -1,0 +1,14 @@
+C:\Users\bielg\source\repos\Funções\Funções\bin\Debug\net8.0\Funções.exe
+C:\Users\bielg\source\repos\Funções\Funções\bin\Debug\net8.0\Funções.deps.json
+C:\Users\bielg\source\repos\Funções\Funções\bin\Debug\net8.0\Funções.runtimeconfig.json
+C:\Users\bielg\source\repos\Funções\Funções\bin\Debug\net8.0\Funções.dll
+C:\Users\bielg\source\repos\Funções\Funções\bin\Debug\net8.0\Funções.pdb
+C:\Users\bielg\source\repos\Funções\Funções\obj\Debug\net8.0\Funções.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bielg\source\repos\Funções\Funções\obj\Debug\net8.0\Funções.AssemblyInfoInputs.cache
+C:\Users\bielg\source\repos\Funções\Funções\obj\Debug\net8.0\Funções.AssemblyInfo.cs
+C:\Users\bielg\source\repos\Funções\Funções\obj\Debug\net8.0\Funções.csproj.CoreCompileInputs.cache
+C:\Users\bielg\source\repos\Funções\Funções\obj\Debug\net8.0\Funções.dll
+C:\Users\bielg\source\repos\Funções\Funções\obj\Debug\net8.0\refint\Funções.dll
+C:\Users\bielg\source\repos\Funções\Funções\obj\Debug\net8.0\Funções.pdb
+C:\Users\bielg\source\repos\Funções\Funções\obj\Debug\net8.0\Funções.genruntimeconfig.cache
+C:\Users\bielg\source\repos\Funções\Funções\obj\Debug\net8.0\ref\Funções.dll
